@@ -9,7 +9,11 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+
+#Java IntelliJ/Maven
+repository-quickfix.iml
 .idea/
+target/
 
 # Package Files #
 *.jar
