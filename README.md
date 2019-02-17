@@ -1,6 +1,4 @@
-# quickfix
-
-converting fix repository edition 2016 to quickfix
+# fix to quickfix repository converter
 
 ### requirenements:
 - maven
