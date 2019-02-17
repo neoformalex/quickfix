@@ -1,4 +1,4 @@
-# quickfix
+# quickfix converter
 
 ### requirenements:
 - maven
